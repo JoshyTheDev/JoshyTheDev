@@ -36,7 +36,7 @@
 
 | Project | Description | GitHub |
 |---------|-------------|--------|
-| **coming soon** | a project soon | [View Repo](https://github.com/JoshyTheDev/) |
+| **Pong** | its in the name | [View Repo](https://github.com/JoshyTheDev/pong) |
 | **coming soon** | a project soon | [View Repo](https://github.com/JoshyTheDev/) |
 | **coming soon** | a project soon | [View Repo](https://github.com/JoshyTheDev/) |
 
