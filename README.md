@@ -65,14 +65,8 @@
 ## Contact Me
 Feel free to reach out:  
 - Discord: **RustyThePanda**  
-- Email: <joshy@example.com>  
 
 
 ---
-
-
-## Socials
-- Instagram: [@JoshyM07](https://www.instagram.com/JoshyM07)  
-- LinkedIn: **
 
 
